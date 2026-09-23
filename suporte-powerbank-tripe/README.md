@@ -17,7 +17,7 @@ deixa empurrar o power bank por baixo (pelo furo do fundo) para tirar.
 Todas as versões têm 4 rasgos na parte de trás para passar **velcro ou abraçadeira de nylon**,
 que podem ser usados sozinhos ou como reforço.
 
-![clip](clip.png) ![gancho](gancho.png)
+![preview](preview.png)
 
 ## Antes de imprimir: meça o tripé
 Os valores padrão são estimados pelas fotos. Meça com um paquímetro e ajuste no OpenSCAD

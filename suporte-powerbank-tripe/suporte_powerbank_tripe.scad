@@ -106,6 +106,6 @@ module gancho() {
     }
 }
 
-berco();
-if (fixacao == "clip")   clip();
-if (fixacao == "gancho") gancho();
+color([1,0.55,0.1]) berco();
+color([1,0.55,0.1]) if (fixacao == "clip") clip();
+color([1,0.55,0.1]) if (fixacao == "gancho") gancho();
